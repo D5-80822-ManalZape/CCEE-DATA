@@ -1,0 +1,363 @@
+ The final step of the system analysis phase in the SDLC is to
+Answers
+1. gather data
+2. write system analysis report
+3. propose changes
+4. analyze data
+
+2
+
+ When you add a software stack, such as an operating system and applications to the service, the model shifts to _____ model.
+Answers
+1. SaaS
+2. PaaS
+3. IaaS
+4. All of the mentioned
+
+1
+
+ Which of the following is used for Web performance management and load testing ?
+Answers
+1. VMware Hyperic
+2. Webmetrics
+3. Univa UD
+4. Tapinsystems
+
+2
+
+4. Which command tool do you use to interact with a Kubernetes cluster?
+Answers
+1. kubelet
+2. docker
+3. kubectl
+4. fleetctl
+
+3
+
+ __________ is native clustering for Docker. It turns a pool of Docker hosts into a single, virtual Docker host.
+Answers
+1. Docker Swarm
+2. Docker Hub
+3. Docker Cloud
+4. Docker Compose
+
+
+1
+
+ __________ is an open-source container management tool which holds the responsibilities of container deployment, scaling and descaling of containers, and load balancing.
+Answers
+1. Grafana
+2. Nagios
+3. Kubernetes
+4. Docker
+
+3
+
+How many heads can be created in a repository?
+Answers
+1. only 10
+2. only 14
+3. only 12
+4. any number of heads.
+
+4
+
+Which one of the following is not part of the data structure of a Git repository?
+Answers
+1. Body element
+2. Branch pointer
+3. Commit object
+4. HEAD pointer
+
+1
+
+ Kubernetes has no GUI
+Answers
+1. TRUE
+2. FALSE
+3. Cant Say
+4. All of the above
+
+2
+
+ Which of the following is not a valid TestNG annotation?
+Answers
+1. @AfterSuite
+2. @Parameters
+3. @BeforeSuite
+4. @DataSource
+
+4
+
+What is Maven?
+Answers
+1. Programming Language
+2. Test Tool
+3. Build Automation Tool
+4. Testing Framework
+
+3
+
+ Microservices is most closely related to what other established acronym?
+Answers
+1. API
+2. AWS
+3. SOA
+4. PaaS
+
+3
+
+ An operating system running on a Type __ VM is a full virtualization.
+Answers
+1. 1
+2. 2
+3. 3
+4. 4
+
+1
+
+ who is reporter in JIRA?
+Answers
+1. Person who has to solve the issue
+2. Person who can generate reports
+3. Person who raise the issue
+4. Person who can view the issue
+
+3
+
+By default, in what mode do Docker containers run in? And what is the value of the -d option that specifies the mode in which docker container runs?
+Answers
+1. foreground mode; -d =True
+2. detached mode; -d=True
+3. foreground mode; -d= False
+4. detached mode; -d= False
+
+1
+
+. When you install Jenkins without any plug-ins configured, what is the only type of Jenkins build job you can create?
+Answers
+1. Maven project
+2. Pipeline project
+3. Freestyle project
+4. Multiconfiguration project
+
+3
+
+ How can we move or copy Jenkins from one server to another?
+Answers
+1. Make a copy of an already existing job by making clone of a job directory by a different name
+2. First, copy the related job directory and slide a job from one installation of Jenkins to another
+3. Renaming an existing job by rename a directory
+4. All of the above
+
+4
+
+ The Selenium can
+Answers
+1. access controls within the desktop
+2. both web and desktop applications
+3. only test web applications
+4. None of the above
+
+3
+
+19. Why would a microservices architecture be beneficial?
+Answers
+1. A suite of services can be deployed and upgraded without a rebuild of other, functioning services.
+2. Less service interruption for fast-paced cloud computing.
+3. Different parts of a development team can manage individual parts of a microservice.
+4. All of the above.
+5. None of the above.
+
+4
+
+The technology used to distribute service requests to resources is referred to as :
+Answers
+1. load performing
+2. load scheduling
+3. load balancing
+4. all of the mentioned
+
+3
+
+. The UML was designed for describing _________
+Answers
+1. object-oriented systems
+2. architectural design
+3. SRS
+4. Both object-oriented systems and Architectural design
+
+4
+
+ Which of the following is not a cloud stakeholder?
+Answers
+1. Cloud providers
+2. Clients
+3. End users
+4. Cloud users
+
+2
+
+ What are the advantages of Jenkins?
+Answers
+1. At integration stage, build failures are cached
+2. For each code commit changes an automatic build report notification generates
+3. To notify developers about build report success or failure, it is integrated with LDAP mail server
+4. All of the above
+
+4
+
+ What is trunk in trunk based DevOps delivery?
+Answers
+1. Developers collaborate on code in a single branch called “trunk”.
+2. Trunk is a special private branch in a developer workstation.
+3. Trunk is the process of merging code in DevOps deliveries.
+4. Trunk is a special source code version controlling system which stores mission critical special projects of your DevOps organization.
+
+1
+
+ What is one of best techniques to convert normal changes into standard changes?
+Answers
+1. Use your track record of successful automated deployments with standard changes.
+2. Negotiate with release managers.
+3. Publicly complain about bureaucracy and make everyone be aware of it.
+4. Make sure normal changes are very carefully deployed to your production systems
+
+1
+
+What is the command used to convert a container into an image?
+Answers
+1. docker push
+2. docker commit
+3. docker run
+4. docker diff
+
+2
+
+The difference between GIT and SVN is?
+Answers
+1. Git is less preferred for handling extremely large files or frequently changing binary files while SVN can Handle multiple projects stored in the same repository.
+2. GIT does not support commits across multiple branches or tags. Subversion allows the creation of folders at any location in the repository layout.
+3. Gits are unchangeable, while Subversion allows committers to treat a tag as a branch and to create multiple revisions under a tag root.
+4. None of the above
+
+1
+
+Which of the following commands runs Jenkins from the command line?
+Answers
+1. java -jar jenkins.war
+2. java -war jenkins.jar
+3. java -jar jenkins.jar
+4. java -war jenkins.war
+
+1
+
+ Which one of following release patterns does not enable you to do low risk DevOps code deployments in your production systems?
+Answers
+1. Canary Deployment Pattern (The Dark Launch).
+2. Blue-Green Deployment Pattern.
+3. Cluster Immune System Release Pattern.
+4. Big bang code deployments of fully tested and validated releases.
+
+4
+
+ Which Scm Tools Does Jenkins Support?
+Answers
+1. AccuRev
+2. CVS
+3. Subversion
+4. All of these
+
+4
+
+
+ Which is Black-Box Testing method?
+Answers
+1. equivalence partitioning
+2. code coverage
+3. fault injection
+4. None of the Above
+
+1
+
+ Which of the following network resources can be load balanced?
+Answers
+1. Connections through intelligent switches
+2. DNS
+3. Storage resource
+4. All of the above
+
+4
+
+ Which one of the following is not part of the data structure of a Git repository?
+Answers
+1. Body element
+2. Branch pointer
+3. Commit object
+4. HEAD pointe
+
+1
+
+ Why would microservices not be beneficial?
+Answers
+1. If your organization is starting with microservices, rather than a monolith.
+2. Your organization is not successfully strategizing for such compartmental design.
+3. Members of a development team aren't as knowledgeable.
+4. All of the above.
+
+
+4
+
+The key role of Kubernetes is
+Answers
+1. Container Orchestration
+2. VM Orchestration
+3. File System Management
+4. User Management
+
+1
+
+Which of the following is/are features of Kubernetes?
+Answers
+1. Automated scheduling
+2. Self-healing capabilities
+3. Automated rollouts and rollbacks
+4. All of the above options
+
+4
+
+ What embedded runtime does the stand-alone Jenkins application use?
+Answers
+1. Tomcat
+2. WebSphere Liberty
+3. WildFly
+4. Jetty
+
+4
+
+ Selenium doesn’t support __________ to write programs (Test Scripts)
+Answers
+1. Java
+2. Perl
+3. VBScript
+4. Python
+
+3
+
+Which of the following type of virtualization is also characteristic of cloud computing ?
+Answers
+1. Storage
+2. Application
+3. CPU
+4. All of the mentioned
+
+4
+
+Containers include the application and all of it’s dependencies, but share the kernel with other containers. They run as an isolated process in userspace on the host operating system.
+Answers
+1. TRUE
+2. FALSE
+
+1
+
+
